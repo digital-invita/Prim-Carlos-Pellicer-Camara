@@ -12,29 +12,29 @@
     const INVITATION_CONFIG =
 {
   "meta": {
-    "pageTitle": "Mi graduación | Prim. Lic. Benito Juárez",
+    "pageTitle": "Primaria | Carlos Pellicer C.",
     "ogTitle": "",
-    "ogDescription": "Tenemos el honor de invitarle a la\nceremonia de Graduación"
+    "ogDescription": "Tiene el honor de invitarle a la ceremonia oficial de entrega de documentos. \nGeneración 2020 – 2026"
   },
   "event": {
-    "label": "Escuela Primaria",
-    "celebrantName": "Lic. Benito Juárez",
-    "eventDate": "2026-07-14T08:30",
+    "label": "Primaria",
+    "celebrantName": "Carlos Pellicer C.",
+    "eventDate": "2026-07-14T09:30",
     "eventEnd": "2026-07-14T13:00",
     "timeZone": "America/Mexico_City",
     "eventLocation": "---",
     "rsvpPhone": "111111"
   },
   "theme": {
-    "bgTop": "#081c3a",
-    "bgMid": "#27639b",
-    "bgBottom": "#081c3a",
+    "bgTop": "#28639b",
+    "bgMid": "#0d7ee7",
+    "bgBottom": "#28639b",
     "gold500": "#f2c06f",
     "particleColor": "#fff4cf",
     "text": "#fffaf3",
     "muted": "#ffffff",
     "bodyFont": "Cormorant Garamond",
-    "scriptFont": "Dancing Script",
+    "scriptFont": "Cormorant Garamond",
     "displayFont": "Dancing Script"
   },
   "images": {
@@ -59,11 +59,11 @@
     "showImage": true
   },
   "family": {
-    "parentsEyebrow": "Directora Escolar",
-    "parentsNamesHtml": "NO<br>&amp;<br>NO",
-    "parentsInviteText": "Tenemos el honor de invitarle a la\nceremonia de Graduación ",
-    "godparentsEyebrow": "Subdirectora escolar",
-    "godparentsNamesHtml": "NO<br>&amp;<br>NO"
+    "parentsEyebrow": "",
+    "parentsNamesHtml": "",
+    "parentsInviteText": "",
+    "godparentsEyebrow": "",
+    "godparentsNamesHtml": ""
   },
   "ceremony": {
     "title": "Ceremonia",
@@ -71,85 +71,22 @@
     "place": "---",
     "mediaMode": "preview",
     "iconSrc": "cereminia.png",
-    "mapEmbed": "https://www.google.com/maps/embed?pb=!3m2!1ses-419!2smx!4v1783215245354!5m2!1ses-419!2smx!6m8!1m7!1sXqwZ3P_w80Gb_Uw0kTJt2Q!2m2!1d19.76261599633266!2d-98.95470081715561!3f66.04353500702416!4f10.648578501892814!5f0.7820865974627469",
+    "mapEmbed": "",
     "photoSrc": "",
-    "mapLink": "https://maps.app.goo.gl/aM8sywzDeYyj5qZt5"
+    "mapLink": ""
   },
   "reception": {
-    "title": "Ceremonia Cívica ",
-    "time": "08:30 hrs ",
-    "place": "Escuela Primaria Lic. Benito Juárez",
+    "title": "Ceremonia Cívica",
+    "time": "14:00 hrs ",
+    "place": "Primaria Carlos Pellicer Cámara",
     "mediaMode": "preview",
     "iconSrc": "recepcion.png",
-    "mapLink": "https://maps.app.goo.gl/JikFdvBFF4saoyc5A",
-    "mapEmbed": "https://www.google.com/maps/embed?pb=!3m2!1ses-419!2smx!4v1783476650913!5m2!1ses-419!2smx!6m8!1m7!1sN4edfateJGw-KpAHlswU8Q!2m2!1d19.75922156069625!2d-98.96550410292195!3f22.320799435135278!4f23.452062232022996!5f0.4000000000000002",
+    "mapLink": "https://maps.app.goo.gl/U5ZBEhrsozPsb5797",
+    "mapEmbed": "https://www.google.com/maps/embed?pb=!3m2!1ses-419!2smx!4v1783716371243!5m2!1ses-419!2smx!6m8!1m7!1sgcdKLwZTDf7FKCIWpIxyHQ!2m2!1d19.7843192836225!2d-98.98034144754264!3f352.8515701606477!4f-0.504351790877422!5f0.7348278240733721",
     "photoSrc": ""
   },
   "timeline": {
-    "items": [
-
-      {
-        "time": "",
-        "title": "Ceremonia Cívica y Cambio de Escolta",
-        "desc": "Honremos nuestros símbolos patrios y el relevo de escolta."
-      },
-      {
-        "time": "",
-        "title": "Presentación del Presídium",
-        "desc": "Presentación de nuestras autoridades e invitados especiales."
-      },
-            {
-        "time": "",
-        "title": "Bienvenida por nuestra Autoridad Escolar",
-        "desc": "Inicio oficial de nuestra ceremonia de graduación."
-      },
-      {
-        "time": "",
-        "title": "Entrada de la Generación | Nacidos para Vencer",
-        "desc": "Recibamos a la generación que hoy culmina esta gran etapa."
-      },
-      {
-        "time": "",
-        "title": "Bailable 4° A | El Gallito",
-        "desc": "Una alegre muestra de nuestras tradiciones mexicanas."
-      },
-      {
-        "time": "",
-        "title": "Entrega de Reconocimientos de 1° a 3° Año",
-        "desc": "Reconocimiento al esfuerzo y dedicación de nuestros alumnos."
-      },
-      {
-        "time": "",
-        "title": "Bailable 5° A | El Colás y La Bamba",
-        "desc": "Disfrutemos este colorido número folclórico."
-      },
-      {
-        "time": "",
-        "title": "Palabras de Despedida de 5° Año",
-        "desc": "Un emotivo mensaje para nuestra generación graduada."
-      },
-      {
-        "time": "",
-        "title": "Entrega de Reconocimientos de 4° a 6° Año",
-        "desc": "Reconocimiento a los logros de nuestros estudiantes."
-      },
-      {
-        "time": "",
-        "title": "Bailable  3° A | El Son de la Negra",
-        "desc": "Tradición, música y alegría en el escenario."
-      },
-      {
-        "time": "",
-        "title": "Último Pase de Lista – 6° A",
-        "desc": "Un momento inolvidable para nuestra generación."
-      },
-      {
-        "time": "",
-        "title": "Último Pase de Lista – 6° B",
-        "desc": "Despedimos con orgullo a nuestros graduados."
-      },
-
-    ]
+    "items": []
   },
   "countdown": {
     "title": "Faltan pocos días",
@@ -200,7 +137,7 @@
     "godparents": false,
     "ceremony": false,
     "reception": true,
-    "timeline": true,
+    "timeline": false,
     "countdown": true,
     "gallery": false,
     "dress": false,
